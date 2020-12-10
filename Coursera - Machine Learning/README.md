@@ -17,3 +17,12 @@ More basic introduction to concepts and models
 
 Introduction to the brain made by computers
 
+
+## 5. Week - More Neural Networks cost function and backprogation 
+
+Learning to train the machine 
+
+
+## 6. Week - How to improve your algorithm 
+
+What to do about bias and variance 
