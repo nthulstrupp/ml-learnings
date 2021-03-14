@@ -25,4 +25,31 @@ Learning to train the machine
 
 ## 6. Week - How to improve your algorithm 
 
-What to do about bias and variance 
+What to do about bias and variance and how to deal with skewed data
+
+## 7. Week - Support Vector Machines
+
+Short introduction to SVM and how to use in practise
+
+## 8. Week - Unsupervised learning & Dimensional reduction
+
+K-means clustering; Objective, Deciding number of clusters etc. 
+
+
+## 9. Week - Anomaly detection 
+
+Introduction to recommendor systems, content based recommendations, collaborative filtering
+
+## 10. Week - Large Scale Machine Learning
+
+Big Data, working with large data. 
+
+## 11. Week - Application Example - Photo OCR
+
+Using ML to recognize words, objects, digits. 
+
+
+
+
+
+
